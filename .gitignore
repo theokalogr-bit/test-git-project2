@@ -1,0 +1,6 @@
+### IntelliJ IDEA ###
+out/
+TestGitProject.iml
+
+### Mac OS ###
+.DS_Store
